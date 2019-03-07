@@ -8,7 +8,7 @@ ms.prod: "sharepoint"
 ---
 # Copy a DriveItem
 
-Asynchronously creates a copy of an [driveItem][item-resource] (including any children), under a new parent item or with a new name.
+Asynchronously creates a copy of a [DriveItem][item-resource] (including any children), under a new parent item or with a new name.
 
 ## Permissions
 
